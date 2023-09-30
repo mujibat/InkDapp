@@ -1,0 +1,1 @@
+export const InkTokenAddress = "0x016421AE35494F410A9F52746B43962C3Ec690ab";
